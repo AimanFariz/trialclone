@@ -667,6 +667,26 @@ video {
   height: 2.25rem;
 }
 
+.max-h-\[120px\] {
+  max-height: 120px;
+}
+
+.max-h-\[200px\] {
+  max-height: 200px;
+}
+
+.max-h-\[250px\] {
+  max-height: 250px;
+}
+
+.max-h-\[230px\] {
+  max-height: 230px;
+}
+
+.min-h-\[250px\] {
+  min-height: 250px;
+}
+
 .w-full {
   width: 100%;
 }
