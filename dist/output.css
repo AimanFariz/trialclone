@@ -616,6 +616,11 @@ video {
   margin-right: 1.5rem;
 }
 
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -1266,6 +1271,10 @@ body{
 
   .lg\:max-w-full {
     max-width: 100%;
+  }
+
+  .lg\:flex-wrap {
+    flex-wrap: wrap;
   }
 
   .lg\:rounded-none {
